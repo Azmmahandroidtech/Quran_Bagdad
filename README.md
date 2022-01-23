@@ -1,6 +1,12 @@
 #quran For Android _2022_Azmmah _Technology
 
 
+
+<a href="#"><img src="https://img.gem-flash.com/images/34367538670628843520.jpg" border="0" alt="GEM-FLASH.COM Multi Uploader" /></a>
+
+
+
+
 # عن التطبيق 
 
 - يوفر هذا البرنامج 120 ختمة بصوت مختلف القراء تستطيع الاستماعلها بشكل مباشر
@@ -24,3 +30,7 @@
 
 
  
+
+
+
+
