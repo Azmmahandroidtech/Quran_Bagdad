@@ -1,4 +1,4 @@
-#quran For Android _2022_Azmmah _Technology
+# quran For Android _2022_Azmmah _Technology
 
 
 
